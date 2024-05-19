@@ -1,0 +1,20 @@
+.Header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+.Header nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.Header nav ul li {
+  margin-right: 20px;
+}
+
+.Header nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}

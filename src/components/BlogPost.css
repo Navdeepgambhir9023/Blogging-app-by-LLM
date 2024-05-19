@@ -1,0 +1,18 @@
+.blog-post {
+  margin-bottom: 40px;
+}
+
+.blog-post h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.blog-post .meta {
+  color: #888;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.blog-post .content {
+  line-height: 1.6;
+}

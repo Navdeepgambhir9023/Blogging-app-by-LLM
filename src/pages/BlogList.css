@@ -1,0 +1,17 @@
+.BlogList ul {
+  list-style: none;
+  padding: 0;
+}
+
+.BlogList li {
+  margin-bottom: 20px;
+}
+
+.BlogList li a {
+  text-decoration: none;
+  color: #333;
+}
+
+.BlogList li h2 {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,12 @@
+.BlogPost {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.BlogPost h1 {
+  margin-bottom: 10px;
+}
+
+.BlogPost .content {
+  margin-top: 20px;
+}
